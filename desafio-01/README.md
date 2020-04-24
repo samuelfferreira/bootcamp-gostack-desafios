@@ -47,7 +47,7 @@ Para começar a utilizar o modelo, você deve acessar o link disponibilizado aba
 ### Definindo o cronograma semanal
 
 <p align="center">
-  <img width="80%" src="./assets/cronograma-diario.png">
+  <img width="80%" src="./assets/cronograma-diario-samuel.png">
 </p>
 
 Nessa sessão você deve informar os horários fixos que você irá se dedicar durante a sua jornada como programador, afinal, a rotina de estudos será o primeiro passo para você conseguir atingir os seus objetivos o mais rápido possível!
