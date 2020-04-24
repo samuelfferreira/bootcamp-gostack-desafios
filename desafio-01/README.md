@@ -55,7 +55,7 @@ Nessa sessão você deve informar os horários fixos que você irá se dedicar d
 ### Definindo o cronograma diário
 
 <p align="center">
-  <img width="80%" src="./assets/cronograma-semanal.png">
+  <img width="80%" src="./assets/cronograma-semanal-samuel.png">
 </p>
 
 Agora você deve planejar suas tarefas diárias para que você consiga estar preparado para todo o conteúdo que irá consumir durante a semana.
